@@ -13,3 +13,4 @@ gogo 소스트리를 이용해보자
 reset 첫번째 커밋
 reset 두번째 커밋
 reset 세번째 커밋
+commit --amend
