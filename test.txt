@@ -16,3 +16,4 @@ reset 두번째 커밋
 reset 세번째 커밋
 소스트리에서 commit --amend
 소스트리에서 commit --amend
+얘는 여기서 커밋
