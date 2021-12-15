@@ -13,4 +13,5 @@ gogo 소스트리를 이용해보자
 reset 첫번째 커밋
 reset 두번째 커밋
 reset 세번째 커밋
-commit --amend
+일단 아무거나 적었다
+test.txt의 내용을 수정해본다
