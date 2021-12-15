@@ -19,3 +19,4 @@ reset 세번째 커밋
 얘는 여기서 커밋
 소스트리에서 cherry-pick
 merge 테스트 gogo 커밋1
+merge 테스트 gogo 커밋2
