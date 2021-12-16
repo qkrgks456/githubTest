@@ -1,3 +1,0 @@
-test3 커밋 1
-test3 커밋 2
-fetch test용
