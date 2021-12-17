@@ -1,2 +1,4 @@
 test1 커밋1
 test1 커밋2
+
+merge squash 커밋1
